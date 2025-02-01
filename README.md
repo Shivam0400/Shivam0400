@@ -32,7 +32,6 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  ## GitHub Stats
 
 ![Shivam0400's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam0400&show_icons=true&theme=radical)
 
