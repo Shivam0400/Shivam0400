@@ -32,8 +32,12 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam0400&show_icons=true&theme=radical" alt="Shivam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam0400&layout=compact&theme=radical" alt="Top Languages" />
+  ## GitHub Stats
+
+![Shivam0400's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam0400&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam0400&layout=compact&theme=radical)
+
 </p>
 
 ---
