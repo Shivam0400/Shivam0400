@@ -10,7 +10,7 @@
 ## 💻 Technical Skills  
 - **Programming Languages:** C, C++, Python, Java  
 - **Web Technologies:** HTML, CSS, JavaScript  
-- **Tools & Platforms:** GitHub, VS Code, Figma  
+- **Tools & Platforms:** GitHub, VS Code 
 - **Problem-Solving:** CodeChef, HackerRank, LeetCode  
 
 ## 🚀 Projects  
@@ -27,7 +27,8 @@
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivam-jaiswal04/)  
 - 🖥️ [Portfolio](https://my-portfolioshivam.vercel.app/)  
-- 🏆 [HackerRank](https://www.hackerrank.com/profile/shivamjais_op09)  
+- 🏆 [HackerRank](https://www.hackerrank.com/profile/shivamjais_op09)
+- 🏆 [CodeChef](https://www.codechef.com/users/shivamjais04)
 - 📧 Email: [shivamjais.op09@gmail.com](mailto:shivamjais.op09@gmail.com)  
 
 ## 📊 GitHub Stats  
