@@ -3,8 +3,8 @@
 # 🌐 SHIVAM SONY
 ### `Data Science Engineer` • `Software Developer` • `AI/ML Enthusiast`
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=53E6FF&center=true&vCenter=true&width=620&lines=Turning+Data+into+Insight.+ Turning+Ideas+into+Software .;Data+Science+Engineer+%7C+Applied+AI+%26+ML;Full-Stack+Developer+(Next.js%2C+React%2C+Flask);Deputy+Secretary+%40+Code+Club+GEC+Jamui;Finalist+%40+Spectrum'26+IIT+(ISM)+Dhanbad" alt="Typing SVG" />
+<a href="https://shivam-portfolio-eosin-mu.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=53E6FF&center=true&vCenter=true&width=620&lines=Turning+Data+into+Insight.+Turning+Ideas+into+Software;Data+Science+Engineer+%7C+Applied+AI+%26+ML;Full-Stack+Developer%3A+Next.js%2C+React%2C+Flask;Deputy+Secretary+%40+Code+Club+GEC+Jamui;Hackathon+Finalist+%40+Spectrum+IIT+Dhanbad" alt="Shivam Sony Typing Telemetry" />
 </a>
 
 <br />
