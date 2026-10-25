@@ -1,9 +1,9 @@
 ﻿<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 620 50'
+    viewBox='0 0 780 50'
     style='background-color: #00000000;'
-    width='620px' height='50px'>
+    width='780px' height='50px'>
 
     <style>
 @font-face {
@@ -19,9 +19,9 @@
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d4.end'
                     dur='4000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+                    values='m0,25 h0 ; m0,25 h780 ; m0,25 h780 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='19'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
@@ -33,9 +33,9 @@
                             <!-- Single line -->
                                 <animate id='d1' attributeName='d' begin='d0.end'
                     dur='4000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+                    values='m0,25 h0 ; m0,25 h780 ; m0,25 h780 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='19'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
@@ -47,9 +47,9 @@
                             <!-- Single line -->
                                 <animate id='d2' attributeName='d' begin='d1.end'
                     dur='4000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+                    values='m0,25 h0 ; m0,25 h780 ; m0,25 h780 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='19'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
@@ -61,9 +61,9 @@
                             <!-- Single line -->
                                 <animate id='d3' attributeName='d' begin='d2.end'
                     dur='4000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+                    values='m0,25 h0 ; m0,25 h780 ; m0,25 h780 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='19'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
@@ -75,9 +75,9 @@
                             <!-- Single line -->
                                 <animate id='d4' attributeName='d' begin='d3.end'
                     dur='4000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+                    values='m0,25 h0 ; m0,25 h780 ; m0,25 h780 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#53E6FF' font-size='19'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
